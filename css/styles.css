@@ -60,6 +60,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   text-decoration: none;
+  font-style: normal;
 }
 
 .contacts .link:hover,
@@ -78,7 +79,7 @@ body {
   color: var(--white-text-color);
   font-weight: 900;
   font-size: 44px;
-  line-height: 0.73;
+  line-height: 1.36;
   letter-spacing: 0.06em;
   text-align: center;
 }
@@ -86,7 +87,7 @@ body {
 .features-title {
   color: var(--title-text-color);
   font-size: 14px;
-  line-height: 0.86;
+  line-height: 1.14;
   font-weight: 700;
 }
 
@@ -98,19 +99,19 @@ body {
 .team-title {
   color: var(--title-text-color);
   font-size: 36px;
-  line-height: 0.86;
+  line-height: 1.17;
   font-weight: 700;
 }
 .team-name {
   color: var(--title-text-color);
   font-weight: 700;
   font-size: 18px;
-  line-height: 0.5;
+  line-height: 1.19;
 }
 .team-profession {
   color: var(--primary-text-color);
   font-size: 16px;
-  line-height: 0.84;
+  line-height: 1.19;
   font-weight: 400;
 }
 
@@ -120,7 +121,7 @@ body {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
-  line-height: 0.62;
+  line-height: 1.63;
   text-align: center;
   text-decoration: none;
 }
@@ -135,11 +136,14 @@ body {
   color: var(--button-whitetext-color);
   background-color: var(--accent-color);
   font-size: 16px;
-  line-height: 0.53;
+  line-height: 1.88;
+  font-weight: 700;
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
   text-decoration: none;
+  width: 200px;
+  height: 50px;
 }
 
 .footer {
@@ -156,12 +160,15 @@ body {
 .address-text {
   color: var(--white-text-color);
   font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
 }
 
 .address-contacts {
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   color: var(--address-contacts-color);
   font-style: normal;
 }
