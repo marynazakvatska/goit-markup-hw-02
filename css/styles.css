@@ -36,13 +36,6 @@ body {
   list-style: none;
 }
 
-/* цвет контраста color: #2196F3;*/
-
-/*цвет заглавий: #212121;*/
-/*цвет основного текста, contacts: #757575;*/
-
-/*цвет фона #E5E5E5;*/
-
 /*site-nav*/
 .site-nav .link {
   color: var(--title-text-color);
